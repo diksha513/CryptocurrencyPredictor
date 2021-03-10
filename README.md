@@ -1,6 +1,6 @@
 # CryptocurrencyPredictor
 
-A CryptocurrencyPredictor Using machine learning 
+A CryptocurrencyPredictor Using machine learning Colabrorated with @diksha513
 
 check it out here : http://rushabh22runwal.pythonanywhere.com/
 
