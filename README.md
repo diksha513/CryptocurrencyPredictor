@@ -2,7 +2,7 @@
 
 A CryptocurrencyPredictor Using machine learning 
 
-Colabrorated with [@diksha513](https://github.com/diksha513 "diksha's Profile")
+Colabrorated with [@rushabh-runwal](https://github.com/rushabh-runwal "rushabh's Profile")
 
 check it out here : http://rushabh22runwal.pythonanywhere.com/
 
