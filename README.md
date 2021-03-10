@@ -1,6 +1,8 @@
 # CryptocurrencyPredictor
 
-A CryptocurrencyPredictor Using machine learning Colabrorated with @diksha513
+A CryptocurrencyPredictor Using machine learning 
+
+Colabrorated with [@diksha513](https://github.com/diksha513 "diksha's Profile")
 
 check it out here : http://rushabh22runwal.pythonanywhere.com/
 
