@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,500;1,300;1,400;1,500&display=swap');
+.table {
+    color: #E4E9FD;
+    font-size: 24px;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Croissant One';
+    font-size: 22px;
+}
+
+.header {
+    padding: 80px;
+    text-align: center;
+    background: rgb(0.0.15);
+    color: white;
+    /* color: #E4E9FD !important; */
+    font-family: 'Ubuntu', sans-serif;
+}
+
+span a {
+    color :rgb(51, 230, 255);
+    font-size: 4vh;
+    text-decoration: none;
+    
+}
+
+span a:hover {
+    color : #E4E9FD;
+    font-size: 4.2vh;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #110341;
+    padding: 00px 00px;
+    height: 50px;
+}
+
+.navbar a {
+    background-color: #110341;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.navbar a.active {
+    background-color: #666;
+    color: white;
+}
+
+@media screen and (max-width: 400px) {
+    .navbar a {
+        float: none;
+        width: 50%;
+    }
+}
+
+.side {
+    color: white;
+    -ms-flex: 30%;
+    /* IE10 */
+    flex: 30%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.row {
+    background-color: rgb(0, 0, 0);
+    display: -ms-flexbox;
+    /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* IE10 */
+    flex-wrap: wrap;
+    max-width: 99vw;
+}
+
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+
+.main {
+    -ms-flex: 70%;
+    /* IE10 */
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+}
+
+/* Right-aligned link */
+
+.navbar a.right {
+    float: right;
+}
+
+/* Change color on hover */
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Active/current link */
+
+.navbar a.active {
+    background-color: #666;
+    color: white;
+}
